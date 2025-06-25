@@ -1,0 +1,1 @@
+registers FIOSET,FIOCLR,FIOMASK,FIOPIN,FIODIR pinholes gpio's.
