@@ -99,4 +99,9 @@ project-root/
 * Export documents to PDF or Word
 * Deploy to cloud (e.g., Render, Vercel)
 
+#output:
+![Image](https://github.com/user-attachments/assets/8675f6ed-117c-4074-98c5-16eaef5c041c)
+
+![Image](https://github.com/user-attachments/assets/71386cb8-6879-4d79-9c76-6ceccafb3bfb)
+
 
